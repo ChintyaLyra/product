@@ -11,7 +11,7 @@ class ProductService {
       if(snapshot.value != null){
         Map<dynamic, dynamic> values = snapshot.value as Map<dynamic, dynamic>;
         values.forEach((key, value) {
-          items[key] = 'product_code: ${value['product_code']} \nproduct_name: ${value['product_name']}';
+          items[key] = 'Kode Produk: ${value['product_code']} \nNama Produk: ${value['product_name']}';
         });
       }
       return items;

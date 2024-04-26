@@ -31,7 +31,7 @@ class _AddProductScreenState extends State<AddProductScreen> {
                       controller: _controllerCode,
                       decoration: const InputDecoration(
                         border: UnderlineInputBorder(),
-                        labelText: 'product_code',
+                        labelText: 'Kode Produk',
                       ),
                     ),
                 ),
@@ -47,7 +47,7 @@ class _AddProductScreenState extends State<AddProductScreen> {
                     controller: _controllerName,
                     decoration: const InputDecoration(
                       border: UnderlineInputBorder(),
-                      labelText: 'product_name',
+                      labelText: 'Nama Produk',
                     ),
                   ),
                 ),
