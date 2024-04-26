@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "502147787922",
+    "firebase_url": "https://product-db-ccd40-default-rtdb.firebaseio.com",
+    "project_id": "product-db-ccd40",
+    "storage_bucket": "product-db-ccd40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502147787922:android:b02a82f6ac1d31fd604a4b",
+        "android_client_info": {
+          "package_name": "com.example.product"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbx4l3XgZelR_s5rj4lnxr2SDurRoxk6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
